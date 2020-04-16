@@ -1,0 +1,162 @@
+
+.addlist {
+    border-radius: 4px;
+    padding: 5px;
+    max-width: 400px;
+    text-align: center;
+    display: flex;
+}
+    
+
+.container {
+    background-color: #E5E9EF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+  
+.large {
+    padding: 50px
+}
+.cardwidth {
+    width: 20rem;
+}
+.margintopbottom {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.margintopbottom10 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.fa-delete::before {
+    content : "\f1f8";
+    width:20px;
+    position:relative;
+}
+.margintopbottom5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.cardmin {
+    min-width: 300px;
+}
+
+.large-text {
+    font-size: x-large;
+}
+
+.checkbox-bigger {
+    zoom: 1.5;
+}
+
+.table {
+    border:none;
+    width: 100%;
+}
+
+
+button {
+
+    border: none;
+    color: rgb(34,117,236);
+    padding: 5px 15px;
+    margin-left:100px;
+    border-radius:40px;
+}
+
+td {
+    font-size: 0.6cm;
+    border: none;
+}
+
+tr:nth-child(even) {
+    background-color:white;
+    
+    border:none;
+}
+
+tr:nth-child(odd)  {
+    background-color:rgb(226,235,246);
+
+    
+    border:none;
+
+}
+
+th {
+    font-size:0.7cm;
+    background-image: rgb(226,235,246);
+    
+    border:none;
+}
+
+table {
+    border-collapse: collapse;
+    border: none;
+}
+ td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+button {
+    background-color:rgb(197,207,225);
+    border: none;
+    color: rgb(34,117,236);
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius:40px;
+}
+
+ul {
+
+}
+
+li {
+    flex-direction: column;
+    list-style-type: none;
+}
+a { color:white;
+    text-decoration: none;
+    flex-direction: column;
+
+    font-size: 1.25em;
+    } /* Globally */
+
+
+.bar {
+    background-color: #1976D2;
+    display: flex;
+}
+  .del {
+      margin-left: 20px;
+      color: blue;
+     
+  }
+
+  .header1 {
+      background-color: #E5E9EF;
+      padding-left:60px;  
+   
+  }
+
+  .header2 {
+    background-color: #E5E9EF;
+    padding-bottom:20px;  
+}
+
+.header-div {
+    background-color: #E5E9EF;
+    padding-bottom:50px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.label-class {
+    padding-left: 20px;
+}
+body {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
