@@ -13,7 +13,7 @@ export const Home = () => {
         <div className="row">
           <div>
             <h4 className="margintopbottom20">
-              -ToDo App Description here-
+              ToDo App Description here
             </h4>
           </div>
         </div>
